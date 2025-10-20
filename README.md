@@ -36,6 +36,6 @@ I design **automated pipelines** on the **cloud**, build reliable **data models*
 ---
 
 #### Collaboration
-I’m open to collaborating on **data analytics**, **ETL/BI**, and **practical ML/NLP** projects.
+I’m open to collaborating on **data analytics**, **ETL/BI**, and **practical ML/DL/NLP** projects.
 
 📫 **Contact:** bah.cheikh.boubi@gmail.com
